@@ -1,0 +1,13 @@
+filename = 'Rubidium-Forge-1.20.1.jar'
+name = 'Rubidium'
+side = 'both'
+
+[download]
+hash = '2a1eeb09e35e0c2aa98cdf1d7391caad9360c94c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4952685
+project-id = 574856
